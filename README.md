@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **Mohammad Masum Jia** - *Initial work* - [GitHub](https://github.com/jiaamasum)
-- **Shahariar Hossain Rakib** - *Initial work*
+- **Shahariar Hossain Rakib** - *Initial work* - [GitHub](https://github.com/SHRAKIBBGUB)
 
 ## 🙏 Acknowledgments
 
