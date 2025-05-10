@@ -119,6 +119,7 @@ export default async function ProductPage({
       <div className="w-full max-w-2xl mx-auto mt-16 lg:max-w-none lg:mt-0 lg:col-span-4">
         <ProductDescription content={data?.description as JSONContent} />
       </div>
+      <div className="h-20" /> {/* Spacer */}
     </section>
   );
 }
