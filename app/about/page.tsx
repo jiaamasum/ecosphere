@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About Us - EcoSphere",
-  description: "Learn about EcoSphere's mission and vision for sustainable living",
+  description: "Learn about EcoSpheres mission and vision for sustainable living",
 };
 
 export default function AboutPage() {
@@ -20,7 +20,7 @@ export default function AboutPage() {
           <div className="bg-white p-8 rounded-lg shadow-lg">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Our Mission</h2>
             <p className="text-gray-600">
-              At EcoSphere, we're dedicated to creating a sustainable future through innovative
+              At EcoSphere, were dedicated to creating a sustainable future through innovative
               environmental solutions. We believe in empowering individuals and communities to
               make eco-friendly choices that benefit both people and the planet.
             </p>
@@ -41,7 +41,7 @@ export default function AboutPage() {
             <div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Sustainability</h3>
               <p className="text-gray-600">
-                We're committed to promoting sustainable practices in everything we do.
+                Were committed to promoting sustainable practices in everything we do.
               </p>
             </div>
             <div>
