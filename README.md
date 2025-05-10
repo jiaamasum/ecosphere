@@ -16,7 +16,7 @@
 
 <h2 align="center">🚀 Live Demo</h2>
 <p align="center">
-  [Visit EcoSphere](https://ecosphere.vercel.app)
+  <a href="https://ecosphere.vercel.app" target="_blank">Visit EcoSphere</a>
 </p>
 
 
