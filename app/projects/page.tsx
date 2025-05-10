@@ -39,7 +39,7 @@ export default function ProjectsPage() {
         <div className="text-center mb-16">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Our Projects</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Discover how we're making a difference in communities around the world
+            Discover how were making a difference in communities around the world
           </p>
         </div>
 
@@ -70,7 +70,7 @@ export default function ProjectsPage() {
         <div className="mt-16 text-center">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Want to Collaborate?</h2>
           <p className="text-gray-600 mb-8">
-            We're always looking for new partners to help us create a more sustainable future.
+            Were always looking for new partners to help us create a more sustainable future.
           </p>
           <a
             href="/contact"
