@@ -135,8 +135,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Jiaamasum** - *Initial work* - [GitHub](https://github.com/jiaamasum)
-- **Shahriar Hossain Rakib** - *Initial work*
+- **Mohammad Masum Jia** - *Initial work* - [GitHub](https://github.com/jiaamasum)
+- **Shahariar Hossain Rakib** - *Initial work*
 
 ## 🙏 Acknowledgments
 
