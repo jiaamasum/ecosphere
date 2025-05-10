@@ -195,11 +195,11 @@ export async function BuyProduct(formData: FormData) {
     success_url:
       process.env.NODE_ENV === "development"
         ? "http://localhost:3000/payment/success"
-        : "https://marshal-ui-yt.vercel.app/payment/success",
+        : "https://ecosphere-mauve.vercel.app/payment/success",
     cancel_url:
       process.env.NODE_ENV === "development"
         ? "http://localhost:3000/payment/cancel"
-        : "https://marshal-ui-yt.vercel.app/payment/cancel",
+        : "https://ecosphere-mauve.vercel.app/payment/cancel",
   });
 
   // Create order record (status: pending, will update to completed after payment webhook)
@@ -238,11 +238,11 @@ export async function CreateStripeAccoutnLink() {
     refresh_url:
       process.env.NODE_ENV === "development"
         ? `http://localhost:3000/billing`
-        : `https://marshal-ui-yt.vercel.app/billing`,
+        : `https://ecosphere-mauve.vercel.app/billing`,
     return_url:
       process.env.NODE_ENV === "development"
         ? `http://localhost:3000/return/${data?.connectedAccountId}`
-        : `https://marshal-ui-yt.vercel.app/return/${data?.connectedAccountId}`,
+        : `https://ecosphere-mauve.vercel.app/return/${data?.connectedAccountId}`,
     type: "account_onboarding",
   });
 
