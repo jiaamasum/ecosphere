@@ -14,15 +14,11 @@
 
 </div>
 
-## 📺 Demo Video
+<h2 align="center">🚀 Live Demo</h2>
+<p align="center">
+  [Visit EcoSphere](https://ecosphere.vercel.app)
+</p>
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-[▶️ Watch Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-## 🚀 Live Demo
-
-[Visit EcoSphere](https://ecosphere.vercel.app)
 
 ## ✨ Features
 
@@ -137,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **Jiaamasum** - *Initial work* - [GitHub](https://github.com/jiaamasum)
+- **Shahriar Hossain Rakib** - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -150,5 +147,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by Jiaamasum
+Made with ❤️ by Masum JIa & Shahriar Hossain Rakib
 </div> 
