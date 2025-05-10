@@ -20,7 +20,7 @@ export default function ProductEmail({ link }: { link: string }) {
           <Container style={container}>
             <Text className="text-2xl font-semibold">Hi Friend,</Text>
             <Text className="text-lg text-gray-600">
-              Thank you for buying your product at MarshalUI
+              Thank you for buying your product at EcoSphere
             </Text>
             <Section className="w-full flex justify-center mt-7">
               <Button
@@ -31,7 +31,7 @@ export default function ProductEmail({ link }: { link: string }) {
               </Button>
             </Section>
             <Text className="text-lg">
-              Best, <br /> MarshalUI Team
+              Best, <br /> EcoSphere Team
             </Text>
           </Container>
         </Body>
