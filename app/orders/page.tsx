@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import prisma from "../lib/db";
 import { redirect } from "next/navigation";
