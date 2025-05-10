@@ -19,7 +19,7 @@
   <a href="https://ecosphere.vercel.app" target="_blank">Visit EcoSphere</a>
 </p>
 
-## EcoSphere Hero Are
+## EcoSphere Hero Area
 ![EcoSphere](https://github.com/user-attachments/assets/c9170959-2336-4d6f-8869-410b34f8508f)
 
 
